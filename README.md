@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting resources
 
-[Express JS](https://expressjs.com/)
-[Learn how to use Express.js in a Serverless environment](https://vercel.com/guides/using-express-with-vercel)
+📍 [Express JS](https://expressjs.com/)
+
+📍 [Learn how to use Express.js in a Serverless environment](https://vercel.com/guides/using-express-with-vercel)
 
 ## Author
 ✔ Eka Prasetia 🤵
